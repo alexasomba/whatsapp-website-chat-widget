@@ -148,11 +148,11 @@ npm publish
 ---
 
 ## 🗺️ Roadmap
-[x] Dark mode auto‑detection  
-[x] Multi‑agent support  
-[] WhatsApp Business API integration  
-[] Analytics dashboard  
-[] Custom icons  
+- [x] Dark mode auto‑detection  
+- [x] Multi‑agent support  
+- [ ] WhatsApp Business API integration  
+- [ ] Analytics dashboard  
+- [ ] Custom icons  
 
 ---
 
