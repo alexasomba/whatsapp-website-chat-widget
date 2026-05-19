@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-website-chat-widget",
+  "version": "0.0.0",
+  "description": "Placeholder for whatsapp-website-chat-widget",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "alexasomba (https://www.npmjs.com/~alexasomba)",
+  "license": "MIT",
+  "private": false
+}
